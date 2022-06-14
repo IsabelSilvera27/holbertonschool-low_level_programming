@@ -11,7 +11,7 @@ void print_alphabet_x10(void)
 	int ch;
 	int tim;
 
-	for (tim = '1' ; tim = '10' ; tim++)
+	for (tim = 1 ; tim <= 10; tim++)
 	{
 		for (ch = 97 ; ch <= 122 ; ch++)
 		{
